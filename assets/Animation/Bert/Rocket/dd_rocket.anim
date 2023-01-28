@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dd_rocket",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3b1a90d9-0d87-4daa-b6d1-4ddb80a87cb6"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "851c2aa7-3f21-4483-98ab-5a6018319576"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "07e4a031-c3c8-4311-8729-3b9414b35e0d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "3d13a03c-30c7-4721-9dbc-bf24a78b8263"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "3b1a90d9-0d87-4daa-b6d1-4ddb80a87cb6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

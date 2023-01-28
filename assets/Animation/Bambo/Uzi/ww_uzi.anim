@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ww_uzi",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b795112b-aff8-4bca-8a62-c7ca54c08e4e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "db1bcf0f-61c8-4066-a30c-6972efd7b325"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "91bfd1fc-9401-4b8d-8177-384a9f5da68a"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "a51a8239-f7e9-4d50-8a63-f81353450587"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "b795112b-aff8-4bca-8a62-c7ca54c08e4e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

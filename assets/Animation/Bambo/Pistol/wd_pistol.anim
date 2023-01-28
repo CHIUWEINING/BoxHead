@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wd_pistol",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "99409d35-69f3-4861-ac9b-7d103a254a7a"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "5745cec0-e874-480b-9f47-b5074065fea4"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "3d10daa4-e9ed-45cd-87ca-de174501162e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "64ae205e-3eda-4aae-bd8e-9d175ce22584"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "99409d35-69f3-4861-ac9b-7d103a254a7a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

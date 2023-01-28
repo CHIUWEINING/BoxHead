@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zombie_dMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a91e1fe5-7abb-4bd1-97d9-e30c4d73fa13"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "cfb37b5d-9c3c-4091-85f9-46aa4fb41d82"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "181a6e08-1077-432a-896c-c85d3a83de93"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b905960e-bda1-4c03-b309-2e0ccbfbf64f"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "a91e1fe5-7abb-4bd1-97d9-e30c4d73fa13"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "aa_shotgun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "837af9b9-4447-4bd0-9440-1c64e58fbaf0"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "7a730ab3-5979-4e31-bbd5-d7b78a51378a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "29a2cbbb-ca0b-46ff-9f98-fa03bb208bf7"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "21b0237b-7204-41b6-81d0-d4ac627aff3b"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "837af9b9-4447-4bd0-9440-1c64e58fbaf0"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

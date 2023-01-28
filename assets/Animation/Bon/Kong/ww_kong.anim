@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ww_kong",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a5c72af9-48f5-4a58-a36f-7f3463e8ee23"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "a42842e8-867d-4b12-b7ef-2616387d55b6"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "8c1c0664-0f62-4418-922b-aeff06919676"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "323d526b-ca99-45eb-9fb3-7f35c4de6b6f"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "a5c72af9-48f5-4a58-a36f-7f3463e8ee23"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sd_kong",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "50794743-b64f-4956-9daa-1d67069611ff"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "d962b5b6-e3ca-4f71-9ec7-56ff7aa967b4"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4864f6a2-9eff-422d-a4c4-2560b08ad300"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b62d1cff-e0bb-4b26-a59b-e9759f62fa3c"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "50794743-b64f-4956-9daa-1d67069611ff"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

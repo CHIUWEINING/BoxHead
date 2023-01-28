@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sa_railgun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b1be4e00-68d4-467c-aab7-7f5cb684d37f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "7a7872e5-4bce-4cdb-8f9e-9378e32ef4b6"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4de47637-e61a-47e9-9591-924d517da83b"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "19fadfae-ad57-4b73-a5a0-179817f2a1a9"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "b1be4e00-68d4-467c-aab7-7f5cb684d37f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ss_pistol",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d238d46a-bad7-4ded-91b6-86c3ca923e9f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "6b6614bb-bd1b-48fb-b3ad-e3fb5e3a2c7a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "df8c17d7-91f4-494c-bccd-61a671e11e38"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "df90562d-50c2-41d4-9cff-1aa583e8a4f3"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "d238d46a-bad7-4ded-91b6-86c3ca923e9f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
